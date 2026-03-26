@@ -1,0 +1,65 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-size: 1.1rem;
+    background-color: #0a4668;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    gap: 15px;
+}
+.box{
+   height: 300px;
+   width: 400px;
+   border: 1px solid black;
+  background-color: lightblue;
+  border-radius: 5px;
+}
+h2,p{
+    text-align: center;
+    color: white;
+    margin: 8px;
+
+}
+h2{
+    font-size: 1.6rem;
+    padding-top:25px ;
+}
+.inside{
+    height: 200px;
+    width: 380px;
+    border: 1px solid black;
+   margin-top: 5px;
+    margin-left: 10px;
+     margin-right: 10px;
+      background-color: aqua;
+
+}
+img{
+    background-size: cover;
+}
+h3{
+    margin-left: 10px;
+    background-color: lightblue;
+}
+#tech{
+    text-align: left;
+     background-color: lightblue;
+     color: black;
+     font-size: small;
+}
+#link{
+    background-color: lightblue;
+    font-size: medium;
+    color: black;
+    text-align: left;
+}
+a{
+    background-color: lightblue;
+    color: blue;
+    font-size: medium;
+}
+
